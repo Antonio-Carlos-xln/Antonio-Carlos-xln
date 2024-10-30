@@ -14,6 +14,6 @@ And also an enthusiast of STEM!
 - 🔭 I’m currently working on Amelia, a midterm between JSON and XML
 - 🌱 I’m currently learning Formal Languages
 - 👯 I’m looking to collaborate on cool open source projects
-- 💬 Ask me about aplying programming in STEM
+- 💬 Ask me about applying programming in STEM
 - ⚡ Fun fact: I love Functional Programming!
 
